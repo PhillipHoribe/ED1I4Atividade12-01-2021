@@ -1,0 +1,13 @@
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\obj\Debug\netcoreapp3.1\ControleDeAcesso.csprojAssemblyReference.cache
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\obj\Debug\netcoreapp3.1\ControleDeAcesso.AssemblyInfoInputs.cache
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\obj\Debug\netcoreapp3.1\ControleDeAcesso.AssemblyInfo.cs
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\obj\Debug\netcoreapp3.1\ControleDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\bin\Debug\netcoreapp3.1\ControleDeAcesso.exe
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\bin\Debug\netcoreapp3.1\ControleDeAcesso.deps.json
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\bin\Debug\netcoreapp3.1\ControleDeAcesso.runtimeconfig.json
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\bin\Debug\netcoreapp3.1\ControleDeAcesso.runtimeconfig.dev.json
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\bin\Debug\netcoreapp3.1\ControleDeAcesso.dll
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\bin\Debug\netcoreapp3.1\ControleDeAcesso.pdb
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\obj\Debug\netcoreapp3.1\ControleDeAcesso.dll
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\obj\Debug\netcoreapp3.1\ControleDeAcesso.pdb
+C:\Users\Philc\source\repos\ControleDeAcesso\ControleDeAcesso\obj\Debug\netcoreapp3.1\ControleDeAcesso.genruntimeconfig.cache
